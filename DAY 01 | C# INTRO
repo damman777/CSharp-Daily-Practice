@@ -1,0 +1,28 @@
+DAY 01 | C# Introduction
+
+What is C#?
+
+C# (pronounced "C-Sharp") is a popular programming language created by Microsoft that is used to give instructions to computers. Think of it as a tool for writing the digital recipes that make software work.
+Here is the easiest way to understand it:
+What is it used for?
+• Video Games: It is the main language used to build games in the Unity engine (like Among Us or Hollow Knight).
+• Websites: It powers the invisible "back-end" of major websites, handling data and security.
+• Apps: It is used to make apps for Windows computers, iPhones, and Android phones.
+
+In this practice, I learned the basic structure of a C# console application.
+
+## Topics Practiced
+- Console.WriteLine()
+- Main program structure
+- Basic C# syntax
+- Comments
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
