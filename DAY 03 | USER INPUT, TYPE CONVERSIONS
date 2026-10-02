@@ -1,0 +1,13 @@
+# User Input
+
+## Topics Practiced
+- Console.ReadLine()
+- Taking input from the user
+- Storing user input in variables
+
+# Type Conversion
+
+## Topics Practiced
+- Convert.ToInt32()
+- Converting string input into integer
+- Using converted values in calculations
